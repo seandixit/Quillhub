@@ -10,8 +10,8 @@ Artistic Community: Connect with fellow artists and creatives in a vibrant onlin
 
 ## Technologies Used
 - **MERN Stack:**
-- - MongoDB: A NoSQL database used for storing user data and posts.
-- - Express: A backend web application framework for Node.js, facilitating the development of robust APIs.
-- - React: A JavaScript library for building user interfaces, enabling dynamic and interactive frontend experiences.
-- - Node.js: A JavaScript runtime environment used for server-side scripting.
+  - MongoDB: A NoSQL database used for storing user data and posts.
+  - Express: A backend web application framework for Node.js, facilitating the development of robust APIs.
+  - React: A JavaScript library for building user interfaces, enabling dynamic and interactive frontend experiences.
+  - Node.js: A JavaScript runtime environment used for server-side scripting.
 - CRNN Model: QuillHub utilizes the CRNN (Convolutional Recurrent Neural Network) model for document handwritten text recognition, ensuring accurate transcription of handwritten content.
