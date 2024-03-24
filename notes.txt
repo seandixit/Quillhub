@@ -1,0 +1,20 @@
+Bugs:
+- login- logging in with null password gives error
+- canvas- writing while scrolling gives error 
+- login- cases:
+- - password incorect
+- - user null
+- - pass null
+- - password doesnt exist for given user
+- handle no title in page
+
+
+
+
+Additions:
+- color changing
+- line length changing and grid
+- - background changing (to any pic)
+- deleting posts
+- elongating page (instead of adding page, easier and allows for ocr)
+- left navbar for moving between pages
