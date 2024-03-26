@@ -15,3 +15,8 @@ QuillHub is a social media platform designed to bridge the gap between digital c
 - CRNN Model: QuillHub utilizes the CRNN (Convolutional Recurrent Neural Network) model for document handwritten text recognition, ensuring accurate transcription of handwritten content.
 
 ## Screenshots
+![image](https://github.com/seandixit/Quillhub/assets/153400712/29bcd58a-1d55-42e6-8301-c1f7072376d6)
+
+![image](https://github.com/seandixit/Quillhub/assets/153400712/93e1d098-d9f9-4f95-ac4a-178bf4ba023f)
+
+
