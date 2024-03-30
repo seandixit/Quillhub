@@ -4,7 +4,7 @@ QuillHub is a social media platform designed to bridge the gap between digital c
 ## Features
 - Handwriting Capability: Users can express themselves by handwriting messages and posts directly on the platform.
 - Automatic Handwriting Detection: QuillHub employs advanced technology to detect and convert handwritten text into digital format seamlessly.
-- Artistic Community: Connect with fellow artists and creatives in a vibrant online community.
+- Artistic Community: Connect with fellow artists and creatives in an online community.
 
 ## Technologies Used
 - **MERN Stack:**
