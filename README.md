@@ -23,8 +23,6 @@ QuillHub is a social media platform designed to bridge the gap between digital c
 
 ![image](https://github.com/seandixit/Quillhub/assets/153400712/5a91b297-5718-486d-a4d8-fc8b08850cf1)
 
-![image](https://github.com/seandixit/Quillhub/assets/153400712/93e1d098-d9f9-4f95-ac4a-178bf4ba023f)
-
 ![image](https://github.com/seandixit/Quillhub/assets/153400712/b276c529-a52a-49d8-a021-7879eb18aabc)
 
 ![image](https://github.com/seandixit/Quillhub/assets/153400712/ba12298a-70ff-4d35-983c-7c61ddd48ac4)
