@@ -13,6 +13,10 @@ QuillHub is a social media platform designed to bridge the gap between digital c
   - React: A JavaScript library for building user interfaces, enabling dynamic and interactive frontend experiences.
   - Node.js: A JavaScript runtime environment used for server-side scripting.
 - CRNN Model: QuillHub utilizes the CRNN (Convolutional Recurrent Neural Network) model for document handwritten text recognition, ensuring accurate transcription of handwritten content.
+  - Uses Pytorch for creating model, data saving/loading and model saving/loading
+  - Uses pandas for data
+  - Uses PIL for image manipulation and processing
+
 
 ## Screenshots
 ![image](https://github.com/seandixit/Quillhub/assets/153400712/29bcd58a-1d55-42e6-8301-c1f7072376d6)
